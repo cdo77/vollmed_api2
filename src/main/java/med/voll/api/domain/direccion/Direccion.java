@@ -34,24 +34,4 @@ public class Direccion {
         this.ciudad = direccion.ciudad();
         return this;
     }
-
-    public String getCalle() {
-        return null;
-    }
-
-    public String getDistrito() {
-        return null;
-    }
-
-    public String getCiudad() {
-        return null;
-    }
-
-    public String getNumero() {
-        return null;
-    }
-
-    public String getComplemento() {
-        return null;
-    }
 }

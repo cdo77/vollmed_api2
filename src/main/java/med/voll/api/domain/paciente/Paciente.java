@@ -56,20 +56,4 @@ public class Paciente {
     public void eliminar() {
         this.activo = false;
     }
-
-    public Long getId() {
-        return null;
-    }
-
-    public String getNombre() {
-        return null;
-    }
-
-    public String getEmail() {
-        return null;
-    }
-
-    public String getDocumento() {
-        return null;
-    }
 }
